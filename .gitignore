@@ -1,0 +1,6 @@
+.terraform
+__pycache__
+venv
+lambda-dist
+credentials
+.DS_Store
